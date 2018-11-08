@@ -1,0 +1,68 @@
+body
+{
+    max-width: 95vw;
+    margin: 0 auto;
+    padding: 0 auto;
+    background:#4db6ac;
+}
+#header
+{
+    height: 25rem;
+    background: #ffffff;
+    border-radius: 10px;
+}
+img
+{
+      height: 10rem;
+      float: left;
+      border-radius: 10px;
+      margin: 5rem;    
+}
+#iconos
+{
+ float: right;
+ height: 5rem;
+ margin: 0rem;
+}
+li
+{
+ width: 25rem;
+}
+blockquote
+{
+  text-align: justify;
+  border-color:#ffffff; 
+ color: #000000;
+}
+h3
+{ 
+ color: #000000;
+}
+#textarea
+{
+    height: 4rem;
+    width: 100%;
+    background-color:#bbdefb;
+}
+#comentarios
+{
+    height: 4rem;
+    width: 100%;
+    background-color:#bbdefb;
+} 
+
+#post
+{   
+  height: 45rem; 
+  margin-top:90px; 
+  
+}
+.list-group
+{
+    text-align: center;
+    
+}
+#image
+{
+    width: 70%;  
+}

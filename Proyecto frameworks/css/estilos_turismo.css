@@ -1,0 +1,116 @@
+body
+{   
+    max-width: 9w;
+    margin: 0 auto;
+    padding: 0 auto;
+    background-image: url(..//imagenes/fondo.jpg); 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;   
+}
+#header
+{
+   width: 100%;
+   opacity: 0.7;
+}
+#logo
+{
+    border-radius: 10px;    
+    padding: 5px;
+    width: 40%;    
+}
+a
+{
+    float: right;    
+    margin: 5px;
+    z-index: 1;   
+}
+h6
+{
+    padding-top: 90px;
+    color: #fff; 
+    font-size: 20px;  
+}
+h4
+{
+    padding-top: 90px;
+    color: #fff; 
+    font-size: 25px; 
+}
+h5
+{
+   color: #fff;
+   font-size: 20px;
+   margin: 10px;
+   z-index: 1;
+   text-align: center;
+   
+}
+p
+{
+    color: #fff;
+    font-size:20px;
+    text-align: justify;
+    padding: 9px;
+    z-index: 2;
+}
+span
+{
+   margin: 15px;   
+   font-size: 50px;
+}
+#fondo1
+{
+    width: 100%;
+    border: solid white 2px;
+}
+#fondo2
+{
+    width: 100%;
+    border: solid white 2px; 
+}
+#fondo3
+{
+    height: 70rem;
+    border: solid white 2px; 
+}
+#fondo4
+{
+    width: 80%; 
+    margin-left: 30px; 
+    border: solid white 2px; 
+}
+#articulo
+{
+    width: 25rem;
+    border: solid white 2px;
+    margin: 1px; 
+    float: left;
+}
+#post
+{
+   
+    background: #263238;
+    opacity: 0.8;
+   
+}
+#autor
+{
+    width: 15rem;  
+    border: solid white 2px;    
+}
+#biografia
+{
+    margin-left: 10px !important;
+    background: #263238;
+    opacity: 0.8;    
+}
+footer
+{
+    background: #1976d2 ;
+    margin: 0 auto;
+}
+
+
+
